@@ -1,7 +1,5 @@
 # RFM Customer Segmentation Analysis
 
-![Dashboard](dashboard.png)
-
 ## Overview
 This project applies RFM (Recency, Frequency, Monetary) methodology to segment 5,900+ customers of a UK-based e-commerce company, identifying behavioral patterns to support targeted marketing and retention strategies.
 
